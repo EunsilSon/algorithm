@@ -1,4 +1,4 @@
-# 1. 순차 탐색 (Sequential Search)
+# 1. 선형 탐색 (Sequential Search)
 > 앞에서부터 원소를 하나씩 **차례대로** 검색
 
 - 특징
